@@ -42,7 +42,7 @@ module.exports = {
             filename: '[name]-[fullhash].css',
         }),
         new HtmlWebpackPlugin({
-            template: './src/index.html'
+            template: 'index.html'
         })
     ],
     devServer: {
