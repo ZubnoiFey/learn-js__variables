@@ -1,0 +1,1 @@
+(()=>{let o;o="John",console.log("John")})();
